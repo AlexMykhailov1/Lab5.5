@@ -1,0 +1,8 @@
+﻿  UnitTest5.5.cpp
+Y:\Programming\Projects\Lab5.5\Lab5.5\Lab5.5.cpp(23,48): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Y:\Programming\Projects\Lab5.5\Lab5.5\Lab5.5.cpp(38,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Y:\Programming\Projects\Lab5.5\Lab5.5\Lab5.5.cpp(46,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+Y:\Programming\Projects\Lab5.5\Lab5.5\Lab5.5.cpp(36,17): warning C4101: 'level': unreferenced local variable
+Y:\Programming\Projects\Lab5.5\UnitTest5.5\UnitTest5.5.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Y:\Programming\Projects\Lab5.5\Lab5.5\Lab5.5.cpp(29): warning C4715: 'f': not all control paths return a value
+  UnitTest5.5.vcxproj -> Y:\Programming\Projects\Lab5.5\Debug\UnitTest5.5.dll
